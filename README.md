@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-photo/coding-concept-word-coding-with-neon-illuminated-background-with-blur-coding-hacker-3d-render-illustration_507676-468.jpg?w=2000)](https://rishavchanda.io)
+![MasterHead](https://wallpaperaccess.com/full/7167569.png)
 <h1 align="center">Hi 👋, I'm Talha</h1>
 <h3 align="center">A passionate fullstack developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif"/>
