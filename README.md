@@ -2,11 +2,10 @@
 <h3 align="center">A passionate fullstack developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif"/>
 
-- 🌱 I’m currently learning **firestore, node, mongoDB**
+- 🌱 I’m currently learning **nodeJS, mongoDB**
 
 - 📫 How to reach me **muhammadtalha1400@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
